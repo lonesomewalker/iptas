@@ -16,3 +16,13 @@ bash, iptables, sed, curl, jq, aggregate
 You can also use these scripts to prevent general access to your maintained server from various threads. The scripts wit -as.sh at the end block whole AS while the others might just have a list of ip addresses inside.
 <br>
 And from time to time you need to delete and re-run the scripts, because some AS which were full of spammers simply don't exist anymore :sunglasses:
+<br><br>
+If you are an AS owner or admin (or from the abuse team) and feel offended about this, contact me and we will sort things out.
+<br>
+Everybody who is listed here has had at least 3 unsolved issues in the past.
+<br>
+<b>With unsolved i mean:</b> not responding and the spam/attack continues or responding but still having issues.
+<br><br>
+And yes, even OVH is listed here, because they seem to lack having an abuse team in general, so no loss for all of us.
+<br>
+amazon.com is listed due 99% of incoming connections are trying to deliver spam. If you use AWS or similar, just add a whitelist for your projects ip addresses.
