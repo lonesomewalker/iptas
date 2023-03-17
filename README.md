@@ -1,7 +1,7 @@
 # iptas
 Simple bash scripts to reject connections from well-known spam sender, attackers and not responding to abuse sysadmins. :cursing_face:
 <br>
-(will update from time to time)
+(currently only IPv4, but will update from time to time!)
 <br><br>
 :warning: :warning: :warning: <b>Please keep in mind:</b> :warning: :warning: :warning:
 <br>
