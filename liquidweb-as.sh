@@ -4,7 +4,7 @@ iptables -N AS_LIQUIDWEB_DENY;
 
 iptables -I INPUT -j AS_LIQUIDWEB_DENY;
 
-asarray=("32244")
+asarray=("6188" "32244" "40819" "31463" "53824" "36444" "22558" "21679" "202521" "19066" "11555")
 
 for i in ${asarray[@]}; do
 
